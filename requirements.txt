@@ -1,0 +1,9 @@
+# Pitboss - Requirements
+# Install with: pip install -r requirements.txt
+
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+scipy>=1.10.0
+
+# tkinter is included with Python standard library (no pip install needed)
